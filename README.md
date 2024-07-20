@@ -3,27 +3,6 @@
 
 This project aims to analyze user location data to identify travel patterns, specifically to determine whether users are going on holiday or returning home. The project involves generating synthetic data, cleaning it, performing SQL-based analysis, and visualizing the results.
 
-## Project Structure
-
-.
-├── data
-│ ├── raw
-│ │ └── user_locations.csv
-│ ├── processed
-│ │ ├── clean_user_locations.csv
-│ │ ├── location_analysis.csv
-│ │ └── travel_analysis.csv
-├── src
-│ ├── create_data.py
-│ ├── data_preparation.py
-│ ├── location_analysis.py
-│ ├── travel_analysis.py
-│ └── visualization.py
-├── visualizations
-│ └── travel_patterns.html
-├── README.md
-└── requirements.txt
-
 
 ### Generate Synthetic Data
 
